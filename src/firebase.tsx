@@ -7,7 +7,7 @@ import { getStorage, connectStorageEmulator } from "firebase/storage";
 // Your Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAxDdxu04GUsgrFuHF8nzi9Vn5W6w-UssQ",
-  authDomain: "educonnect-66985.firebaseapp.com",
+  authDomain: "edu-connect-orpin.vercel.app",
   databaseURL:
     "https://educonnect-66985-default-rtdb.asia-southeast1.firebasedatabase.app/",
   projectId: "educonnect-66985",
