@@ -1,0 +1,25 @@
+
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null",
+    "enrollments": {
+      ".indexOn": ["student_id", "course_id", "student_id"]
+    },
+    "ai-courses": {
+      ".indexOn": ["id"]
+    },
+    "courses": {
+      ".indexOn": ["instructor_id", "id"]
+    },
+    "assignments": {
+      ".indexOn": ["course_id"]
+    },
+    "submissions": {
+      ".indexOn": ["user_id", "assignment_id"]
+    },
+    "attendance": {
+      ".indexOn": ["student_id", "course_id", "date"]
+    }
+  }
+}
