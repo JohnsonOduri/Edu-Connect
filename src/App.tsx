@@ -7,6 +7,7 @@ import Auth from './pages/Auth';
 import StudentDashboard from './pages/StudentDashboard';
 import TeacherDashboard from './pages/TeacherDashboard';
 import About from './pages/About';
+import Index from './pages/Index';
 import { Toaster } from "@/components/ui/toaster";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
   return (
     <Router>
       <Routes>
+        <Route path="/" element={<Index />} />
         <Route path="/login" element={!isAuthenticated ? <Login /> : <Navigate to="/dashboard" />} />
         <Route path="/auth" element={!isAuthenticated ? <Auth /> : <Navigate to="/dashboard" />} />
         <Route path="/dashboard" element={
@@ -33,7 +35,6 @@ function App() {
           )
         } />
         <Route path="/about" element={<About />} />
-        <Route path="/" element={<Navigate to="/dashboard" />} />
       </Routes>
       <Toaster />
     </Router>

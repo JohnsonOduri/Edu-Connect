@@ -4,28 +4,35 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Linkedin } from "lucide-react";
+import { Link } from "react-router-dom";
+import { Button } from "@/components/ui/button";
 
 const About = () => {
   const team = [
     {
       name: "Vishnunath A Suresh",
       role: "Project Lead & Full-Stack Developer",
-      avatar: "VS",
+      avatar: "public/lovable-uploads/014455ee-4ed4-490f-a32d-e617501d1a5a.png",
+      linkedIn: "https://www.linkedin.com/in/vishnunath-a-suresh/",
     },
     {
       name: "Johnson Oduri",
-      role: "Frontend Developer & UX Designer",
-      avatar: "JO",
+      role: "Backend & Frontend Developer",
+      avatar: "public/lovable-uploads/3574dd6e-2565-4e34-b881-5377c337e015.png",
+      linkedIn: "https://www.linkedin.com/in/johnson-oduri-20b08b34b/",
     },
     {
       name: "Issac Roy",
       role: "Backend Developer & System Architect",
-      avatar: "IR",
+      avatar: "public/lovable-uploads/92840a5d-077c-4fdb-b609-a7094a478782.png",
+      linkedIn: "https://www.linkedin.com/in/isaac-roy-383724342/",
     },
     {
       name: "Sahaja Pallapothula",
       role: "UI Designer & Content Strategist",
-      avatar: "SP",
+      avatar: "public/lovable-uploads/77ac0f1e-4606-4d9f-b412-5f0c464f51b7.png",
+      linkedIn: "https://www.linkedin.com/in/sahaja-pallapothula-22713b329/",
     },
   ];
 
@@ -92,13 +99,23 @@ const About = () => {
                   {team.map((member) => (
                     <div key={member.name} className="flex flex-col items-center text-center space-y-2">
                       <Avatar className="h-24 w-24">
+                        <AvatarImage src={member.avatar} alt={member.name} />
                         <AvatarFallback className="bg-primary text-primary-foreground text-xl">
-                          {member.avatar}
+                          {member.name.split(' ').map(name => name[0]).join('')}
                         </AvatarFallback>
                       </Avatar>
                       <div>
                         <h3 className="font-medium">{member.name}</h3>
                         <p className="text-sm text-muted-foreground">{member.role}</p>
+                        <a 
+                          href={member.linkedIn} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1 mt-1 text-primary hover:text-primary/80 transition-colors"
+                        >
+                          <Linkedin className="h-4 w-4" />
+                          <span className="text-sm">LinkedIn</span>
+                        </a>
                       </div>
                     </div>
                   ))}
