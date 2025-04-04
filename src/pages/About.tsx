@@ -13,25 +13,25 @@ const About = () => {
     {
       name: "Vishnunath A Suresh",
       role: "Project Lead & Full-Stack Developer",
-      avatar: "public/lovable-uploads/014455ee-4ed4-490f-a32d-e617501d1a5a.png",
+      avatar: "/014455ee-4ed4-490f-a32d-e617501d1a5a.png",
       linkedIn: "https://www.linkedin.com/in/vishnunath-a-suresh/",
     },
     {
       name: "Johnson Oduri",
       role: "Backend & Frontend Developer",
-      avatar: "public/lovable-uploads/3574dd6e-2565-4e34-b881-5377c337e015.png",
+      avatar: "/3574dd6e-2565-4e34-b881-5377c337e015.png",
       linkedIn: "https://www.linkedin.com/in/johnson-oduri-20b08b34b/",
     },
     {
       name: "Issac Roy",
       role: "Backend Developer & System Architect",
-      avatar: "public/lovable-uploads/92840a5d-077c-4fdb-b609-a7094a478782.png",
+      avatar: "/92840a5d-077c-4fdb-b609-a7094a478782.png",
       linkedIn: "https://www.linkedin.com/in/isaac-roy-383724342/",
     },
     {
       name: "Sahaja Pallapothula",
       role: "UI Designer & Content Strategist",
-      avatar: "public/lovable-uploads/77ac0f1e-4606-4d9f-b412-5f0c464f51b7.png",
+      avatar: "/77ac0f1e-4606-4d9f-b412-5f0c464f51b7.png",
       linkedIn: "https://www.linkedin.com/in/sahaja-pallapothula-22713b329/",
     },
   ];
