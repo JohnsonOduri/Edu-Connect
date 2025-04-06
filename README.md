@@ -11,6 +11,12 @@
 
 Edu-Connect is a next-generation learning management system that leverages artificial intelligence to transform the educational experience for both students and teachers.
 
+## Contributors 
+[![GitHub](https://img.shields.io/badge/GitHub-IsaacRoy-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/IsaacRoy)
+[![GitHub](https://img.shields.io/badge/GitHub-vishnunathasuresh-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/vishnunathasuresh)
+[![GitHub](https://img.shields.io/badge/GitHub-JohnsonOduri-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/JohnsonOduri)
+
+
 ## 🌐 Live Demo
 
 **[Visit Edu-Connect](https://edu-connect-orpin.vercel.app)**
