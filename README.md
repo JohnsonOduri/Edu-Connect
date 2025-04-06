@@ -80,4 +80,4 @@ Having issues? [create an issue](https://github.com/JohnsonOduri/Edu-Connect/iss
 
 
 
-Built with ❤️ by the EventPro Team
+Built with ❤️ by the Edu-Connect Team
