@@ -60,12 +60,6 @@ npm install
 npm run dev
 ```
 
-
-
-## 🤝 Contributing
-
-We welcome contributions to Edu-Connect! Please check out our [Contributing Guide](CONTRIBUTING.md) for guidelines on how to proceed.
-
 ### Development Workflow
 
 1. Fork the repository
@@ -76,7 +70,7 @@ We welcome contributions to Edu-Connect! Please check out our [Contributing Guid
 
 ## 📞 Support
 
-Having issues? [create an issue](https://github.com/your-organization/eventpro/issues/new).
+Having issues? [create an issue](https://github.com/JohnsonOduri/Edu-Connect/issues/new/choose).
 
 
 
