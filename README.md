@@ -9,6 +9,8 @@
 
 Edu-Connect is a next-generation learning management system that leverages artificial intelligence to transform the educational experience for both students and teachers.
 
+Demo Link : **[Watch on Youtube](https://youtu.be/ONXRgMo0mvQ?si=cFwSndEiltJEZfQl)**
+
 ## Our Mission
 > Bringing education into the digital era
 
