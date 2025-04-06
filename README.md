@@ -15,7 +15,7 @@ Edu-Connect is a next-generation learning management system that leverages artif
 [![GitHub](https://img.shields.io/badge/GitHub-IsaacRoy-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/IsaacRoy)
 [![GitHub](https://img.shields.io/badge/GitHub-vishnunathasuresh-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/vishnunathasuresh)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnsonOduri-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/JohnsonOduri)
-
+[![GitHub](https://img.shields.io/badge/GitHub-sahaja9707-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/sahaja9707)
 
 ## 🌐 Live Demo
 
