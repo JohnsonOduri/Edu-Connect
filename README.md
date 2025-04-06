@@ -7,15 +7,34 @@
 [![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=flat&logo=firebase)](https://firebase.google.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
-## AI-Powered Learning Management System
-
 Edu-Connect is a next-generation learning management system that leverages artificial intelligence to transform the educational experience for both students and teachers.
 
-## Contributors 
-[![GitHub](https://img.shields.io/badge/GitHub-IsaacRoy-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/IsaacRoy)
-[![GitHub](https://img.shields.io/badge/GitHub-vishnunathasuresh-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/vishnunathasuresh)
-[![GitHub](https://img.shields.io/badge/GitHub-JohnsonOduri-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/JohnsonOduri)
-[![GitHub](https://img.shields.io/badge/GitHub-sahaja9707-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/sahaja9707)
+## Our Mission
+> Bringing education into the digital era
+
+EduConnect is a comprehensive learning management system designed to bridge the gap between educators and students. Our platform provides powerful tools for course management, assignment tracking, quizzes, coding labs, and more.
+
+We believe that education should be accessible, engaging, and effective. Our platform is built to facilitate meaningful connections between teachers and students, making the learning process more interactive and productive.
+
+## 🔑 Key Features
+> What makes EduConnect stand out
+
+- Course Management
+- Interactive Assignments
+- Timed Quizzes
+- Coding Lab
+- Progress Tracking
+- Discussion Forums
+- AI-Assisted Learning
+- Attendance Tracking
+- Study Planner
+- Real-time Feedback
+
+## 👥 Contributors 
+- [![GitHub](https://img.shields.io/badge/GitHub-IsaacRoy-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/IsaacRoy)
+- [![GitHub](https://img.shields.io/badge/GitHub-JohnsonOduri-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/JohnsonOduri)
+- [![GitHub](https://img.shields.io/badge/GitHub-sahaja9707-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/sahaja9707)
+- [![GitHub](https://img.shields.io/badge/GitHub-vishnunathasuresh-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/vishnunathasuresh)
 
 ## 🌐 Live Demo
 
